@@ -1,0 +1,33 @@
+h1 {
+    font-size: 32px;
+    color:blue;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+/* In HTML5, the ID attribute is used to give elements unique identifiers 
+that can be targeted by CSS or JavaScript. And in CSS3, the "#" symbol is 
+used to select elements based on their ID attribute. */
+
+#jaffa{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: red;
+}
+
+div {
+    width: 100%;
+    background-color: grey;
+}
+
+p {
+    font-size: 12px;
+    color: red;
+}
+
+a {
+    text-decoration: underline;
+    color: blue;
+}
+
+
